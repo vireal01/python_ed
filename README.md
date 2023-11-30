@@ -16,8 +16,8 @@ Certainly! Here's the plan with links added for each point:
    - Recommended resources: [W3Schools Python Tutorial](https://www.w3schools.com/python/), [Codecademy Python Course](https://www.codecademy.com/learn/learn-python-3)
 
 3. **Day 5-7: Control Flow and Loops**
-   - Study if statements, for loops, and while loops.
-   - Practice solving simple problems using these control flow structures.
+   - Study if statements, for loops, and while loops.[W3Schools](https://www.w3schools.com/python/python_conditions.asp)
+   - Practice solving simple problems using these control flow structures (if statements, for loops, and while loops).
 
 ### Week 3-4: Functions and Modules
 
@@ -74,7 +74,7 @@ Certainly! Here's the plan with links added for each point:
     - Recommended resources: [MDN Web Docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 13. **Day 43-46: Working with APIs**
-    - Learn how to make API requests using Python.
+    - Learn how to make API requests using Python.[Pyhton Requests Documentation](https://docs.python-requests.org/en/latest/user/quickstart/) or [Real Python - Python Requests Tutorial](https://realpython.com/python-requests/)
     - Understand JSON and how to parse API responses.
 
 ### Week 13-14: Final Projects and Review
